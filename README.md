@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an enterprise application backend<br>Looking to collaborate on any open source project involving React, Node.js or Django<br>Currently learning about Spline 3D and also Deep learning models
+I'm currently working on an enterprise application backend<br>Looking to collaborate on any open source project involving React, Node.js or Django<br>Currently learning about Spline 3D and Deep learning models
 
 
 ## 🌐 Socials:
