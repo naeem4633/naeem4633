@@ -22,10 +22,6 @@ I'm currently working on an enterprise application backend<br>Looking to collabo
 - **Learn JavaScript Book** ([GitHub](https://github.com/sumn2u/learn-javascript))
   - Added an in-depth chapter on JavaScript Animation Resources (~600 lines of code)
 
-## 📈 Contribution Stats
-<div align="center">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=your_codersrank_username" width="600">
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naeem4633&icon=0&color=0)](https://visitcount.itsvg.in)
