@@ -15,12 +15,17 @@ I'm currently working on an enterprise application backend<br>Looking to collabo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naeem4633&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=naeem4633&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🛠️ Open Source Contributions
 - **Learn JavaScript Book** ([GitHub](https://github.com/sumn2u/learn-javascript))
   - Added an in-depth chapter on JavaScript Animation Resources (~600 lines of code)
 
 ## 📈 Contribution Stats
-![Contribution Stats](https://github-readme-stats.vercel.app/api/wakatime?username=naeem4633&layout=compact&theme=dark&hide_border=false&v=2)
+<div align="center">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=your_codersrank_username" width="600">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naeem4633&icon=0&color=0)](https://visitcount.itsvg.in)
